@@ -1,0 +1,11 @@
+{
+	"port": 8080,
+	"mongo": {
+		"uri": "mongodb://localhost/scotiaNodeTest",
+		"testDBUri": "mongodb://localhost/scotiaNodeTestTesting"
+	},
+	"secret": "apisecret",
+	"logging": {
+		"logLevel": "info"
+	}
+}
